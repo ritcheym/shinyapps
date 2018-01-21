@@ -10,4 +10,4 @@ Shiny Apps
 * This Shiny app demonstrates the dual process model of recognition memory (Yonelinas, 1994) and the influence of familiarity and recollection on receiver operating characteristic (ROC) curves.
 * User controls the recollection parameter, familiarity parameter, and decision criterion.
 * The app plots the density function, ROC, and zROC, dynamically updating with user input.
-* [Live demo](hhttp://www.datadetective.org/apps/dual-process-roc/)
+* [Live demo](http://www.datadetective.org/apps/dual-process-roc/)
