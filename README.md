@@ -1,13 +1,13 @@
 Shiny Apps
 --------------
-### SimpleROC 
-* This Shiny app demonstrates key concepts in signal detection and the influence of key parameters on receiver operating characteristic (ROC) curves. 
+### Simple ROC
+* This Shiny app demonstrates key concepts in signal detection and the influence of key parameters on receiver operating characteristic (ROC) curves.
 * User controls discriminability, decision criterion, and relative variance of target distribution.
 * The app plots the density function, ROC, and zROC, dynamically updating with user input.
-* [Live demo](http://maureen.shinyapps.io/SimpleROC)
+* [Live demo](http://www.datadetective.org/apps/simple-roc/)
 
-### DualProcessROC
-* This Shiny app demonstrates the dual process model of recognition memory (Yonelinas, 1994) and the influence of familiarity and recollection on receiver operating characteristic (ROC) curves. 
+### Dual-Process ROC
+* This Shiny app demonstrates the dual process model of recognition memory (Yonelinas, 1994) and the influence of familiarity and recollection on receiver operating characteristic (ROC) curves.
 * User controls the recollection parameter, familiarity parameter, and decision criterion.
 * The app plots the density function, ROC, and zROC, dynamically updating with user input.
-* [Live demo](http://maureen.shinyapps.io/DualProcessROC)
+* [Live demo](hhttp://www.datadetective.org/apps/dual-process-roc/)
